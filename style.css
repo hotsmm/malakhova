@@ -173,6 +173,10 @@ h1 {
 	.contacts-container {
 		display: none;
 	}
+
+	.review-img {
+		width: 95%;
+	}
 }
 
 @media screen and (max-width:540px){
