@@ -45,13 +45,13 @@ main::after {
 
 h1 {
 	font-family: "Noto Sans", serif;
-	color: #093587;
+	color: #4703a1;
 	font-weight: 600;
 	font-size: 36px;	
 }
 
 .h2 {
-	color: #066db8;
+	color: #a361fa;
 	font-size: 26px;
 	font-weight: 700;
 	font-family: "Montserrat", serif;
@@ -97,7 +97,7 @@ h1 {
 }
 
 .title-review {
-	color: #093587;
+	color: #4703a1;
 	font-size: 26px;
 	font-weight: 700;
 	font-family: "Noto Sans", serif;
